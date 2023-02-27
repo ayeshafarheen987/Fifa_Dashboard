@@ -1,9 +1,8 @@
-streamlit
-numpy
-pandas
-matplotlib
-plotly
-scikit-learn
-os
-io
-seaborn
+streamlit==1.19.0
+numpy==1.24.2
+pandas==1.5.3
+matplotlib==3.7.0
+plotly==5.13.1
+scikit-learn==1.2.1
+seaborn==0.12.2
+sklearn==0.0.post1
